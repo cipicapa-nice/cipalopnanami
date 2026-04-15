@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>index</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	body {
+		background-color= #F7F4D5
+	}
+	
+	h1(
+		color= #ED408B
+		font size= 500
+		text-align= center;
+	)
+
+	h2(
+		color= #FFA9CB
+		font size= 300
+		text-align= center;
+	)
+	
+	p(
+		color= #45151B
+		font size= 100
+		text-align= center;
+	)
+
+</body>
+</html>
